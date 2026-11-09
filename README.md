@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/60ffb17e-45b9-4d66-91de-906fe31c8168
+
+
 # MCP Server
 
 This is a basic MCP server using FastMCP which is connected to Claude Desktop. 
