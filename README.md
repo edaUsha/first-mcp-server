@@ -19,3 +19,8 @@ A simple notes.txt file was created by Claude to add notes into it.
 
 The MCP was connected to Claude Desktop using Local Extensions.
 
+### Steps for Running the code
+1. Initialize uv.
+2. Run main.py file
+3. Check the extensions in Cluade
+4. Connect the mcp
